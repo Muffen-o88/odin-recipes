@@ -1,8 +1,8 @@
 Hi!
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FHappy-Emoji-Meme-by-shlaboza%2F155655149.EJUG5&psig=AOvVaw1kHjmlZJSjuzrLIgDn6uRW&ust=1755637937061000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKChnpSjlY8DFQAAAAAdAAAAABAE">
-  >
+<img width="498" height="319" alt="image" src="https://github.com/user-attachments/assets/b02fe47d-ee23-4020-b16c-369a8e58438a" />
+
 im making a new project!!!11!
 
 
