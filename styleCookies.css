@@ -1,6 +1,5 @@
-* {
-    border: 2px solid black;
-}
+
+
 
 body {
     background-color: beige;
@@ -10,19 +9,34 @@ h1 {
   font-size: 50px;
 }
 
-/* Termine o estilo de TODOS os sites */
+ .list-tools, .list-ingredients, .Step-by-step {
 
-p, li {
+  margin: 20px;
+}
+
+p, li, .tip {
     font-family: Tahoma, Verdana, sans-serif;
     font-size: 20px;
 }
 
+.tip {
+ font-weight: 600;
+ margin-top: 20px;
+}
+
 img {
-  margin: 10px;
+  margin: 15px;
 
 }
 
-h2, h1, h3, h4 {
+h2, h1, h3, h4, #duration {
     text-align: center;
     font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  font-size: 18px;
+}
+#title {
+  text-align: left;
 }
