@@ -1,5 +1,41 @@
-h1, h2, h3 {
-    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+h1, h2 {
+    font-family: " Cedarville Cursive", cursive;
+    text-align: center;
+     margin: 20px;
 
 }
-/* Termine de estilizar TODOS os sites */
+
+
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+    margin-top: 50px;
+}
+
+
+body, * {
+    background-color: rgb(255, 195, 195)
+}
+
+p, li {
+
+   font-size: 20px;
+
+} 
+
+h1{
+    margin: 10px;
+    font-size: 60px;
+}
+
+img {
+    margin: 20px;
+    margin-left: 430px;
+
+}
+
+/* Termine TODOS os estilos dos sites */
