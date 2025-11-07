@@ -5,6 +5,10 @@ h1, h2 {
 
 }
 
+.steps {
+    margin-bottom: 20px;
+}
+
 
 .cedarville-cursive-regular {
   font-family: "Cedarville Cursive", cursive;
@@ -14,11 +18,13 @@ h1, h2 {
 
 h3 {
     margin-top: 50px;
+    font-size: 25px;
 }
 
 
-body, * {
-    background-color: rgb(255, 195, 195)
+body {
+    background-color: rgb(255, 195, 195);
+    
 }
 
 p, li {
@@ -38,4 +44,4 @@ img {
 
 }
 
-/* Termine TODOS os estilos dos sites */
+
