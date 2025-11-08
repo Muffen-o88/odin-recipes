@@ -1,0 +1,23 @@
+body, * {
+    border: 1px black solid;
+}
+
+/* Termine de estilizar ESSE e o styleAboutrecipes, e faça o site do Abourecipes */
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 30px; 
+    
+}
+
+ul {
+    font-size: 40px;
+    text-align: center;
+
+}
+
+li {
+    margin: 10px;
+
+}
