@@ -1,0 +1,67 @@
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.amatic-sc-regular {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.amatic-sc-bold {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.Candy-canes {
+    background-color: rgb(250, 159, 159);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.Cookie {
+    background-color: rgb(223, 158, 84);
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: "Verdana","Geneva", Tahoma, sans-serif;
+}
+
+.Bloody-rats {
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
+    margin-bottom: 60px;
+    color: white;
+}
+
+#monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 25px;
+}
+}
+
+.this-style-site, footer {
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+h2 {
+    font-size: 40px;
+}
