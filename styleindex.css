@@ -1,4 +1,4 @@
-body, * {
+body {
     border: 1px black solid;
 }
 
@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     font-size: 50px;
     margin: 30px; 
+    margin-bottom: 150px;
     
 }
 
@@ -18,6 +19,18 @@ ul {
 }
 
 li {
-    margin: 10px;
+    margin: 40px;
 
+}
+
+.Cookies {
+    background-color: rgb(223, 158, 84);
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.Candy-canes {
+    background-color: rgb(250, 159, 159);
+    
+    color: white;
 }
