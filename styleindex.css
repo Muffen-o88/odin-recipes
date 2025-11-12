@@ -1,8 +1,20 @@
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
     border: 1px black solid;
 }
 
-/* Termine de estilizar ESSE e o styleAboutrecipes, e faça o site do Abourecipes */
+
 
 h1 {
     text-align: center;
@@ -29,8 +41,13 @@ li {
     color: black;
 }
 
-.Candy-canes {
+#Candy-canes {
     background-color: rgb(250, 159, 159);
-    
+    color: white;
+
+}
+
+#spooky {
+    background-color: black;
     color: white;
 }
